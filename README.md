@@ -8,7 +8,7 @@ My table generation code is licensed under the MIT license, so feel free to run 
 
 The two data structures below represent the same data in different formats.
 
-```
+```python
 byte_freqs = [
 	0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000,
 	0.000000, 0.000000, 0.022298, 0.000000, 0.000000, 0.022298, 0.000000, 0.000000,
@@ -44,7 +44,7 @@ byte_freqs = [
 	0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000
 ]
 ```
-```
+```python
 char_freqs = {
 	'\n':	0.022298,
 	'\r':	0.022298,
